@@ -1,5 +1,5 @@
 # Procedural-Terrain-Generator
-OpenGL project for course Computer Graphics
+OpenGL project for the course Computer Graphics
 
 <img src="./media/scene1.png">
 <img src="./media/scene2.png">
