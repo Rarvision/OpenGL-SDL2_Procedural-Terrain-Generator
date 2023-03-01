@@ -1,9 +1,9 @@
 # Procedural-Terrain-Generator
 OpenGL project for course Computer Graphics
 
-<img src="./part1/media/scene1.png">
-<img src="./part1/media/scene2.png">
-<img src="./part1/media/mesh.png">
+<img src="./media/scene1.png">
+<img src="./media/scene2.png">
+<img src="./media/mesh.png">
 
 YouTube Link: https://www.youtube.com/watch?v=lYt6dlfu3L8
 
