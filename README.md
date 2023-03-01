@@ -1,6 +1,12 @@
 # Procedural-Terrain-Generator
 OpenGL project for course Computer Graphics
 
+<img src="./part1/media/scene1.png">
+<img src="./part1/media/scene2.png">
+<img src="./part1/media/mesh.png">
+
+YouTube Link: https://www.youtube.com/watch?v=lYt6dlfu3L8
+
 This program can randomly generate height value and normal vector for each vertex of a mesh to produce a mountain topography. To simulate terrains in real world, the color of each vertex of the terrain was generated based on the height value. A fog effect was also implemented to enhance the sense of reality. 
 
 The algorithm I chose for generating the height map is like the algorithm used for image filters. Firstly the program will generate a random height value for each point. Then a kernel will be applied to each point to smooth this extremely random terrain to a realistic terrain.
